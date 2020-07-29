@@ -1,14 +1,10 @@
 {
   "name": "name-random-messages",
   "version": "1.0.0",
-  "description": "random de nombres",
+  "description": "I don't know what to write for the first commit.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alfred3ks/name-random-messages.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +14,15 @@
   "author": "Alfredo Sánchez <alfred3ks@gmail.com>",
   "license": "MIT",
   "bin": {
-    "name-random": "./bin/global.js"
+    "name-random": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfred3ks/name-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfred3ks/name-random-messages/issues"
+  },
+  "homepage": "https://github.com/alfred3ks/name-random-messages#readme"
 }
